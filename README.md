@@ -1,4 +1,4 @@
-#Color Detector on Images using Opencv
+# Color Detector on Images using Opencv
 
 "color-detector"
 
